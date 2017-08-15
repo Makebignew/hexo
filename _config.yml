@@ -2,14 +2,14 @@
 # 需要修改的内容已经用中文标注出来了
 
 # Site
-title: 站点标题
-subtitle:
+title: Jaion's blog
+subtitle: There's a will,there's a way.
 description:
-author: 站点作者
-language: zh-Hans
+author: Jaion
+language: zh-CN
 timezone:
 
-url: https://站点域名
+url: https://blog.jaion.ml
 root: /
 permalink: :title/
 permalink_defaults:
@@ -69,7 +69,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: next
+theme: jinshu
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
